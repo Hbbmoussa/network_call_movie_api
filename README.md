@@ -1,6 +1,6 @@
 # MEST Class : flutter network-call challenge
 
-Time 15 minites
+Time 15 munites
 
 Result:
 
