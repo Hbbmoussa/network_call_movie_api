@@ -1,6 +1,8 @@
-# network_app
+# MEST Class : flutter network-call challenge
 
-A new Flutter project.
+Time 15 minites
+
+Result:
 
 ## Getting Started
 
